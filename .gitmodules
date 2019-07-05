@@ -1,0 +1,3 @@
+[submodule "libhb"]
+	path = libhb
+	url = https://github.com/janghanbin/libhb
